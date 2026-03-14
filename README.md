@@ -15,7 +15,7 @@ The program does the following:
        4. If the number of roots of a quadratic equation is greater than zero (can be 0, 1 or 2), then
           the program displays solutions to formulas
          "x1=-b-sqrt(d)/(2*a)" and "x2=-b+sqrt(d)/(2*a)". Otherwise, the phrase "the equation has no roots" is displayed.
-Developed in the Apache NetBeans integrated environment (in the Microsoft Visual Studio Code etitor).
+Developed in the Apache NetBeans integrated environment (in the Microsoft Visual Studio Code editor).
 
 SolveSquareEquation. Занятия по PHP. Простой Ввод/вывод. Алгоритмы. Консольное приложение.
 Консольное приложение написанное на языке программирования PHP. 
